@@ -15,9 +15,9 @@ Featuring a smooth gradient background, glassmorphism UI, and glowing animations
 ---
 
 ## 🧩 Tech Stack  
-- **HTML5** — Structure and game layout  
-- **CSS3** — Styling, gradients, and background animations  
-- **JavaScript (ES6)** — Game logic, events, and results detection  
+- **HTML** — Structure and game layout  
+- **CSS** — Styling, gradients, and background animations  
+- **JavaScript** — Game logic, events, and results detection  
 
 ---
 
